@@ -7,6 +7,9 @@ public class Avvio {
 		System.out.println("Il buon Mattia");
 		System.out.println("La  mistica Francesca");
 		System.out.println("Il bello Simone");
+		System.out.println("Speramm");
+
+		
 	}
 
 }
